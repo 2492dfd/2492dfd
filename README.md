@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#안녕하세요
+##WELCOME TO MY GITHUB
+- I'm currently working on my project
+- I'm currently learning how to make a website
