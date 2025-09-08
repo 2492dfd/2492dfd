@@ -1,0 +1,9 @@
+## Hi there 👋 I'm Chaerin Lee
+
+- 🔭 I’m currently working on my first project with my friend  
+- 🌱 I’m currently learning Spring Boot, React, and Database 
+- 👯 I’m looking to collaborate on open-source projects  
+- 🤔 I’m looking for help with how to design a website by using figma
+
+### 🌐 Connect with me 
+[![GitHub](https://github.com/2492dfd/2492dfd)  
